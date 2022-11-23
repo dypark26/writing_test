@@ -1,7 +1,7 @@
 // import { handleAuth, onToggle, logout } from "./pages/auth.js";
 // import { changeProfile, onFileChange } from "./pages/profile.js";
 // import { socialLogin } from "./pages/auth.js";
-import { handleLocation, goToProfile } from "./router.js";
+import { handleLocation, route } from "./router.js";
 // import { authService } from "./firebase.js";
 // import {
 //   save_comment,
